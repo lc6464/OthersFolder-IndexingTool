@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "其他人文件夹索引工具", "其他人文件夹索引工具.csproj", "{3E4FB0D0-E1A5-46A1-BC7E-FE327CFA524B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E4FB0D0-E1A5-46A1-BC7E-FE327CFA524B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4FB0D0-E1A5-46A1-BC7E-FE327CFA524B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4FB0D0-E1A5-46A1-BC7E-FE327CFA524B}.Debug|x64.ActiveCfg = Debug|x64
+		{3E4FB0D0-E1A5-46A1-BC7E-FE327CFA524B}.Debug|x64.Build.0 = Debug|x64
+		{3E4FB0D0-E1A5-46A1-BC7E-FE327CFA524B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4FB0D0-E1A5-46A1-BC7E-FE327CFA524B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4FB0D0-E1A5-46A1-BC7E-FE327CFA524B}.Release|x64.ActiveCfg = Release|x64
+		{3E4FB0D0-E1A5-46A1-BC7E-FE327CFA524B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {482ABCB8-A4CD-460A-8160-BF6FD3583606}
+	EndGlobalSection
+EndGlobal
