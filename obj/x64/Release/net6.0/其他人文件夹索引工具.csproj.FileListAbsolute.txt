@@ -1,0 +1,15 @@
+C:\Users\LC\source\repos\其他人文件夹索引工具\bin\x64\Release\net6.0\其他人文件夹索引工具.exe
+C:\Users\LC\source\repos\其他人文件夹索引工具\bin\x64\Release\net6.0\其他人文件夹索引工具.deps.json
+C:\Users\LC\source\repos\其他人文件夹索引工具\bin\x64\Release\net6.0\其他人文件夹索引工具.runtimeconfig.json
+C:\Users\LC\source\repos\其他人文件夹索引工具\bin\x64\Release\net6.0\其他人文件夹索引工具.dll
+C:\Users\LC\source\repos\其他人文件夹索引工具\bin\x64\Release\net6.0\其他人文件夹索引工具.pdb
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\其他人文件夹索引工具.csproj.AssemblyReference.cache
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\其他人文件夹索引工具.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\其他人文件夹索引工具.AssemblyInfoInputs.cache
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\其他人文件夹索引工具.AssemblyInfo.cs
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\其他人文件夹索引工具.csproj.CoreCompileInputs.cache
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\其他人文件夹索引工具.dll
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\refint\其他人文件夹索引工具.dll
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\其他人文件夹索引工具.pdb
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\其他人文件夹索引工具.genruntimeconfig.cache
+C:\Users\LC\source\repos\其他人文件夹索引工具\obj\x64\Release\net6.0\ref\其他人文件夹索引工具.dll

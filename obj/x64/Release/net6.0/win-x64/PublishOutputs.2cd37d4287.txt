@@ -1,0 +1,2 @@
+C:\Users\LC\source\repos\其他人文件夹索引工具\bin\Release\net6.0\publish\win-x64\其他人文件夹索引工具.pdb
+C:\Users\LC\source\repos\其他人文件夹索引工具\bin\Release\net6.0\publish\win-x64\其他人文件夹索引工具.exe
